@@ -1,7 +1,6 @@
 # Actividad-Final-De-Unidad-Josue-Perez
 # Glosario Integrado de Fundamentos de Programación, Desarrollo y Control de Versiones
 
-Este documento integra las **40 definiciones clave** trabajadas en las Actividades #2 y #4. Presenta una guía fundamental sobre lógica de programación, herramientas de desarrollo y sistemas de control de versiones.
 
 ---
 
